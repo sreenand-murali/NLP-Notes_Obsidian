@@ -8,29 +8,147 @@
         "type": "tabs",
         "children": [
           {
-            "id": "996134d1460fe83d",
+            "id": "6aedd0cbbd595df0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "NLP.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "c3f6732c2d204499",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "09dfa14bc193afc2",
+            "id": "546081ee00fca00b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Count or Frequency.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9b35f75afa8f02a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Count or Frequency.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ee8d18c9ea1335b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bag of Words.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e058270dd3f3a22b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "One Hot Encoding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "183530110e46bb3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Count or Frequency.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee57b9fb2a8d8497",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lemmatization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2c901806b2bb284",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Named Entity Recognition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4481de4ea7b5a15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parts of Speech Tagging.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2833e15967e0b953",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stop Words.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78262c3f85d92ead",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lemmatization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b410877df324fc90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stemming.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -83,7 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "bfd3a1e9ac7461b5",
@@ -99,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "NLP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "NLP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "NLP.md"
               }
             }
           }
@@ -160,8 +278,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "996134d1460fe83d",
+  "active": "6aedd0cbbd595df0",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Count or Frequency.md",
+    "Word Encoding.md",
+    "NLP.md",
+    "Term Freq - Inverse Document Freq.md",
+    "Bag of Words.md",
+    "One Hot Encoding.md",
+    "Lemmatization.md",
+    "Stop Words.md",
+    "Parts of Speech Tagging.md",
+    "Named Entity Recognition.md",
+    "Text Preprocessing.md",
+    "Stemming.md",
+    "Tokenization.md",
+    "Corpus->Documents.md"
   ]
 }
